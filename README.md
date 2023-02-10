@@ -1,6 +1,6 @@
 ### Oie!!! Eu sou a Bruna Bruno. Prazer em tê-lo(a) aqui! 😄
 
-  ##
+ ##
  
 ### 👉🏻 Um pouquinho sobre mim:
 
