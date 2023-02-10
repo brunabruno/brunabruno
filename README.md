@@ -12,7 +12,7 @@ Eu sou uma pessoa muito amigável, adoro conversar e "trocar figurinhas". A part
 
  ##
  
- ### 👉🏻 Tecnologias que provavelmente vocês encontrarão por aqui:
+ ### 👉🏻 Tecnologias que provavelmente você encontrará por aqui:
 <div style="display: inline_block">
   <img align="center" alt="Bruna-UiPath" height="30" width="40" src="https://raw.githubusercontent.com/brunabruno/brunabruno/main/uipath-logo.svg">
   <img align="center" alt="Bruna-DotNet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
