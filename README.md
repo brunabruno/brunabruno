@@ -5,9 +5,9 @@
 - 😄 Pronouns: she/her/hers
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-UiPath" height="30" width="60" src="https://seekvectorlogo.com/wp-content/uploads/2019/07/uipath-vector-logo.png">
-  <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bruna-UiPath" height="30" width="40" src="https://raw.githubusercontent.com/brunabruno/brunabruno/main/uipath-logo.svg">
   <img align="center" alt="Bruna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
   ##
