@@ -8,7 +8,7 @@ Graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Sã
 
 Neste ano de 2023, me tornei a <b>1ª mulher da América Latina a conquistar o título de UiPath MVP</b>! 🥰
 
-<img align="center" alt="Bruna-UiPathMVP" height="160" width="160" src="https://raw.githubusercontent.com/brunabruno/brunabruno/main/uipath-mvp.png">
+<img align="center" alt="Bruna-UiPathMVP" height="209" width="400" src="https://raw.githubusercontent.com/brunabruno/brunabruno/main/Bruna_Cavalcanti Bruno-FB_LI.jpg">
 
 E ah, atualmente estou me aventurando a estudar Python...
 
