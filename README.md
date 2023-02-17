@@ -4,11 +4,15 @@
  
 ### 👉🏻 Um pouquinho sobre mim:
 
-Graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo e Pós-graduada em Inteligência Artificial e Big Data pela USP, possuo 3 anos de experiência em Robotic Process Automation (RPA) com a ferramenta UiPath e sou uma das organizadoras da UiPath Community Chapter São Paulo. Também sou palestrante nas horas vagas! ❤
+Graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo e Pós-graduada em Inteligência Artificial e Big Data pela USP, possuo 3 anos de experiência em Robotic Process Automation (RPA) com a ferramenta UiPath e sou uma das organizadoras da UiPath Community Chapter São Paulo. Também sou palestrante nas horas vagas.
+
+Neste ano de 2023, me tornei a <b>1ª mulher da América Latina a conquistar o título de UiPath MVP</b>! 🥰
+
+<img align="center" alt="Bruna-UiPathMVP" height="160" width="160" src="https://raw.githubusercontent.com/brunabruno/brunabruno/main/uipath-mvp.png">
 
 E ah, atualmente estou me aventurando a estudar Python...
 
-Eu sou uma pessoa muito amigável, adoro conversar e "trocar figurinhas". A partir deste ano de 2023, pretendo ser mais ativa no GitHub. O meu objetivo aqui é aprender e ensinar, portanto, não hesite em interagir comigo e me trazer feedbacks. Combinado? Isso é de extrema importância para a minha constante evolução! 😃
+Eu sou uma pessoa muito amigável, adoro conversar e "trocar figurinhas". A partir deste, pretendo ser mais ativa no GitHub. O meu objetivo aqui é aprender e ensinar, portanto, não hesite em interagir comigo e me trazer feedbacks. Combinado? Isso é de extrema importância para a minha constante evolução! 😃
 
  ##
  
