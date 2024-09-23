@@ -4,7 +4,7 @@
  
 ### 👉🏻 Um pouquinho sobre mim:
 
-Graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo e Pós-graduada em Inteligência Artificial e Big Data pela USP, possuo 3 anos de experiência em Robotic Process Automation (RPA) com a ferramenta UiPath e sou uma das organizadoras da UiPath Community Chapter São Paulo. Também sou palestrante nas horas vagas.
+Graduada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo e Pós-graduada em Inteligência Artificial e Big Data pela USP, possuo 4 anos de experiência em Robotic Process Automation (RPA) com a ferramenta UiPath e sou uma das organizadoras da UiPath Community Chapter São Paulo. Também sou palestrante nas horas vagas.
 
 Neste ano de 2023, me tornei a <b>1ª mulher da América Latina a conquistar o título de UiPath MVP</b>! 🥰
 
