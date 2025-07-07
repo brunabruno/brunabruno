@@ -16,7 +16,7 @@ Eu sou uma pessoa muito amigável, adoro conversar e "trocar figurinhas". A part
  
  ### 👉🏻 Tecnologias que provavelmente você encontrará por aqui:
 <div style="display: inline_block">
-  <img align="center" alt="Bruna-UiPath" height="30" width="135" src="https://raw.githubusercontent.com/brunabruno/brunabruno/main/uipath-logo.png">
+  <img align="center" alt="Bruna-UiPath" height="30" width="135" src="[https://raw.githubusercontent.com/brunabruno/brunabruno/main/uipath-logo.png](https://d1io3yog0oux5.cloudfront.net/_26d7302a4e6b9aee8884a758b6bce9df/uipath/logo.png)">
   <img align="center" alt="Bruna-DotNet" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
   <img align="center" alt="Bruna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
